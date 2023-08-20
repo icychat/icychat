@@ -5,9 +5,9 @@ Official Icychat
 
 ## Donate
 
-Help us grow with a [one time donation](https://donate.stripe.com/7sIeY92cOgVU9X27ss)
+Help us grow with a [one time donation](https://buy.stripe.com/6oE03f4kWdJIb167su)
 
-[Donate](https://donate.stripe.com/7sIeY92cOgVU9X27ss)
+[Donate](https://buy.stripe.com/6oE03f4kWdJIb167su)
 
 ## Sponsor
 
